@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #step1: Main directory with date and time name
 main_dir=$(date +"%Y-%m-%d_%H-%M-%S")
 	mkdir "$main_dir"
